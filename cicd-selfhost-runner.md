@@ -1187,9 +1187,9 @@ watch -n 10 ./monitor.sh
 
 <details>
 <summary>คำตอบ</summary>
-```txt
+
  เขียนคำตอบลงในช่องนี้
-```
+
 
 </details>
 
@@ -1197,9 +1197,9 @@ watch -n 10 ./monitor.sh
 
 <details>
 <summary>คำตอบ</summary>
-```txt
+
  เขียนคำตอบลงในช่องนี้
-```
+
 
 </details>
 
@@ -1207,9 +1207,9 @@ watch -n 10 ./monitor.sh
 
 <details>
 <summary>คำตอบ</summary>
-```txt
+
  เขียนคำตอบลงในช่องนี้
-```
+
 
 </details>
 
@@ -1217,9 +1217,9 @@ watch -n 10 ./monitor.sh
 
 <details>
 <summary>คำตอบ</summary>
-```txt
+
  เขียนคำตอบลงในช่องนี้
-```
+
 
 </details>
 
@@ -1227,9 +1227,9 @@ watch -n 10 ./monitor.sh
 ### 5. nginx คืออะไร และการทำ Revers Proxy ใน nginx มีความสำคัญอย่างไร
 <details>
 <summary>คำตอบ</summary>
-```txt
+
  เขียนคำตอบลงในช่องนี้
-```
+
 
 </details>
 ---
